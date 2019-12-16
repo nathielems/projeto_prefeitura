@@ -12,7 +12,7 @@ if ( !defined('ABSPATH') )
 	define('ABSPATH', dirname(__FILE__) . '/');
 
 if ( !defined('BASEURL') )
-	define('BASEURL', '/crud-bootstrap-php/');
+	define('BASEURL', '/projeto_prefeitura/');
 	
 if ( !defined('DBAPI') )
 	define('DBAPI', ABSPATH . 'inc/database.php');
